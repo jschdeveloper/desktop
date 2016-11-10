@@ -1,9 +1,9 @@
 /* Thumbnail Effects Style */
 .tj_container{
-	width:1400px;
-	height:800px;
+	width:60%;
+	height:90%;
 	position:relative;
-	margin:30px auto;
+	margin:10px auto;
 }
 .tj_nav{
 	position:absolute;
